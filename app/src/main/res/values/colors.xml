@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ad2029</color>
+    <color name="colorPrimaryDark">#ad2029</color>
+    <color name="colorAccent">#ED3B39</color>
+    <color name="colorBackground">#eee9ee</color>
+    <color name="text_color">#273A51</color>
+    <color name="text_color_time">#BBBBBB</color>
+
+    <color name="bludeSelectedSetting">#4880cd</color>
+    <color name="homeTextColor">#1b1b18</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="dark_transperant">#66000000</color>
+    <color name="itemSelected">#e4e3e3</color>
+    <color name="colorDescription">#797979</color>
+    <color name="red">#ad2029</color>
+    <color name="background_gray">#efeeee</color>
+    <color name="buyTokenText">#231F1F</color>
+    <color name="buyTokenTextGray">#CBCBCB</color>
+    <color name="dividerColor">#d7d6d6</color>
+    <color name="colorHint">#b1abab</color>
+    <color name="editTextLine">#828282</color>
+    <color name="dialogColor">#d0d0d0</color>
+    <color name="addPostColor">#efeeee</color>
+
+    <color name="borderColor">#E6E6E6</color>
+    <color name="edittextTextColor">#BCBCBC</color>
+    <color name="background_gray_contact">#F4F4F4</color>
+    <color name="head_title">#363F4D</color>
+    <color name="form_ed">#B7B7B7</color>
+    <color name="tab_background">#F9F9F9</color>
+    <color name="selected_tab_text">#303030</color>
+
+    <color name="colorBlackTransparent">#83000000</color>
+    <color name="colorBlackLightTransparent">#55000000</color>
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="colorButton">#ED3B39</color>
+    <color name="rose">#ec1e79</color>
+    <color name="green">#23b249</color>
+
+</resources>
