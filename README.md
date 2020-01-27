@@ -25,7 +25,7 @@ This App is common Modules and libraries i use in my apps, i decided to make it 
 
 ## Implementation
 * In this project I'm using [MVVM Pattern](https://developer.android.com/jetpack/docs/guide)
-as an application architecture adopted with usage of UseCases with these design patterns in mind:-
+as an application architecture with these design patterns in mind:-
 - Repository Pattern
 - Singleton
 - Factory
@@ -47,9 +47,9 @@ cleaner and more readable and handy when creating dependecies.
 The ViewModel should outlive the View on configuration changes. For instance, on rotation, the Activity gets destroyed and recreated but your ViewModel should not be affected by this. If the ViewModel was to be recreated as well, all the ongoing tasks and cached latest ViewState would be lost.
 We use the Architecture Components library to instantiate our ViewModel in order to easily have its lifecycle correctly managed.
 
-Contributing
+##Contributing
 For new features, please open an issue to discuss it before beginning implementation.
 
-For any question
+##For any question
 - you can contact me on my email: ashraaf.mahmoud@gmail.com
 
