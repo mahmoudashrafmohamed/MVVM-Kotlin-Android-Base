@@ -103,7 +103,6 @@ dependencies {
     kapt "com.google.dagger:dagger-compiler:2.25.2"
     kapt "com.google.dagger:dagger-android-processor:2.25.2"
 
-
     // Android ViewModel architecture component
     implementation "androidx.lifecycle:lifecycle-extensions:2.2.0-rc03"
     implementation "androidx.lifecycle:lifecycle-common-java8:2.2.0-rc03"
